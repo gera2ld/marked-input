@@ -1,3 +1,4 @@
 dist-demo
 scripts
 snapshots
+*.log
